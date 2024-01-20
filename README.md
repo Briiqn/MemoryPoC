@@ -4,7 +4,7 @@ MemoryPoC is a Proof of Concept (PoC) ransomware concept that takes a unique app
 
 ## Running in a Virtual Machine
 
-Please note that MemoryPoC is intended to be executed in a virtual machine environment. Running it on a physical machine may lead to unintended consequences. Make sure to set up a suitable virtual environment before testing the concept.
+Please note that MemoryPoC is intended to be executed in a virtual machine environment. Running it on a physical machine may lead to unintended consequences. Make sure to set up a suitable virtual environment before testing the concept.This also requires a Java Runtime >=21
 
 ## Origins and Inspiration
 
